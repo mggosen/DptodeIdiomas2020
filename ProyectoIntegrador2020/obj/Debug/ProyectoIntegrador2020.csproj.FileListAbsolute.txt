@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Escritorio\Diseño y Desarrollo\TRABAJO INTEGRADOR\DptodeIdiomas2020\ProyectoIntegrador2020\bin\Debug\ProyectoIntegrador2020.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\Diseño y Desarrollo\TRABAJO INTEGRADOR\DptodeIdiomas2020\ProyectoIntegrador2020\bin\Debug\ProyectoIntegrador2020.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Diseño y Desarrollo\TRABAJO INTEGRADOR\DptodeIdiomas2020\ProyectoIntegrador2020\bin\Debug\ProyectoIntegrador2020.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Diseño y Desarrollo\TRABAJO INTEGRADOR\DptodeIdiomas2020\ProyectoIntegrador2020\obj\Debug\ProyectoIntegrador2020.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Diseño y Desarrollo\TRABAJO INTEGRADOR\DptodeIdiomas2020\ProyectoIntegrador2020\obj\Debug\ProyectoIntegrador2020.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Diseño y Desarrollo\TRABAJO INTEGRADOR\DptodeIdiomas2020\ProyectoIntegrador2020\obj\Debug\ProyectoIntegrador2020.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Diseño y Desarrollo\TRABAJO INTEGRADOR\DptodeIdiomas2020\ProyectoIntegrador2020\obj\Debug\ProyectoIntegrador2020.pdb
